@@ -1,0 +1,6 @@
+{
+    "name": "usox/xbmc-php-rpc",
+    "type": "library",
+    "license": "GPL-3",
+    "require": {}
+}
